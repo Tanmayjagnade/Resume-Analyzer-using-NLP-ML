@@ -6,10 +6,10 @@ Developed and deployed a robust Resume Analyzer to streamline candidate screenin
 
 ## Components
 
-**Web Application**: Built using Streamlit for easy interaction via a web interface.
-**Text Extraction**: Utilizes pdfminer to extract text from PDF files.
-**Text Preprocessing**: Tokenization, stopword removal, and lemmatization using spaCy and NLTK.
-**Similarity Calculation**: Cosine similarity calculation using TF-IDF vectorization. 
+- **Web Application**: Built using Streamlit for easy interaction via a web interface.
+- **Text Extraction**: Utilizes pdfminer to extract text from PDF files.
+- **Text Preprocessing**: Tokenization, stopword removal, and lemmatization using spaCy and NLTK.
+- **Similarity Calculation**: Cosine similarity calculation using TF-IDF vectorization. 
 
  ## Features
 
