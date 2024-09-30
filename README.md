@@ -1,15 +1,15 @@
- # Resume Analyzer using NLP and ML
+# Resume Analyzer using NLP and ML
 
 ## Overview
-Developed and deployed a robust Resume Analyzer to streamline candidate screening, reducing manual effort by [X]%. Utilized Python, spaCy, NLTK, pdfminer, and Streamlit to design and implement algorithms for extracting relevant information from resumes.
 
+Developed and deployed a robust Resume Analyzer to streamline candidate screening, reducing manual effort by [X]%. Utilized Python, spaCy, NLTK, pdfminer, and Streamlit to design and implement algorithms for extracting relevant information from resumes.
 
 ## Components
 
-### *Web Application*: Built using Streamlit for easy interaction via a web interface.
-*Text Extraction*: Utilizes pdfminer to extract text from PDF files.
-*Text Preprocessing*: Tokenization, stopword removal, and lemmatization using spaCy and NLTK.
-*Similarity Calculation*: Cosine similarity calculation using TF-IDF vectorization. 
+**Web Application**: Built using Streamlit for easy interaction via a web interface.
+**Text Extraction**: Utilizes pdfminer to extract text from PDF files.
+**Text Preprocessing**: Tokenization, stopword removal, and lemmatization using spaCy and NLTK.
+**Similarity Calculation**: Cosine similarity calculation using TF-IDF vectorization. 
 
  ## Features
 
@@ -26,7 +26,6 @@ Developed and deployed a robust Resume Analyzer to streamline candidate screenin
 3. Submit the form to calculate the similarity.
 4. View the similarity score on the result page.
 
-
 ## Dependencies
 
 - Python
@@ -34,7 +33,6 @@ Developed and deployed a robust Resume Analyzer to streamline candidate screenin
 - NLTK
 - pdfminer
 - Streamlit
-
 
 ## How to Use
 
