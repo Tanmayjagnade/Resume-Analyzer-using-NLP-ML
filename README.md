@@ -2,7 +2,7 @@
 
 ## Overview
 
-Developed and deployed a robust Resume Analyzer to streamline candidate screening, reducing manual effort by [X]%. Utilized Python, spaCy, NLTK, pdfminer, and Streamlit to design and implement algorithms for extracting relevant information from resumes.
+Developed and deployed a robust Resume Analyzer to streamline candidate screening, reducing manual effort by 95%. Utilized Python, spaCy, NLTK, pdfminer, and Streamlit to design and implement algorithms for extracting relevant information from resumes.
 
 ## Components
 
